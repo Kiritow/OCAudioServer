@@ -31,11 +31,10 @@ Once **Grab** is installed, run the following command to install the client:
 grab install audiostreamer
 ```
 
-You might have to run it with `-f` or `-cn` option or run `grab update` before it.
+You might have to run it with `-f` or `--cn` option or run `grab update` before it.
 
 ## Notice
 
 This AudioServer is started on localhost at port 59612. 
 
-By default, [OpenComputers](https://github.com/MightyPirates/OpenComputers) does not allow connecting to localhost. You can remove anything in section `opencomputers.internet.blacklist` from `.minecraft/config/opencomputers/settings.conf` to enable it.
-
+By default, [OpenComputers](https://github.com/MightyPirates/OpenComputers) does not allow connecting to localhost. You can remove everything in section `opencomputers.internet.blacklist` from `.minecraft/config/opencomputers/settings.conf` to change the behavior.
