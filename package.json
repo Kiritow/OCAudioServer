@@ -1,0 +1,19 @@
+{
+  "name": "ocaudioserver",
+  "version": "0.0.1",
+  "description": "Audio server for OpenComputers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiritow/OCAudioServer.git"
+  },
+  "author": "Kiritow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiritow/OCAudioServer/issues"
+  },
+  "homepage": "https://github.com/kiritow/OCAudioServer#readme"
+}
