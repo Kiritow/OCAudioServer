@@ -9,6 +9,10 @@ This is the backend provider of `audiostreamer` package. This project use [ffmpe
 
 Make sure [Node.js](https://nodejs.org) is installed and configured properly.
 
+[LionRay.jar](http://gamax92.pc-logix.com/LionRay.jar) is included in this project and placed under `bin/` folder. 
+
+[ffmpeg](https://ffmpeg.org/) should be downloaded and `ffmpeg.exe` should be extracted to `bin/`. Because it is too big, about 60MB, and is constantly updated. This also makes it possible to run on Linux by providing a symbolic link to `ffmpeg`.
+
 *Currently this project does not use any external libraries. So `npm install` is not needed.*
 
 ```
