@@ -1,2 +1,4 @@
 mp3/
 tmp/
+bin/*.exe
+bin/*.dll
